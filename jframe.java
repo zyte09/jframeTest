@@ -1,7 +1,7 @@
 import javax.swing.JFrame;
 import javax.swing.ImageIcon;
 import java.awt.Color;
-public class test { 
+public class jframe { 
     public static void main(String[] args) {
         JFrame frame = new JFrame(); //create a new frame
         frame.setTitle("JFrame title goes here"); //set the title
